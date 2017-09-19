@@ -1,0 +1,7 @@
+List containers: ps
+
+[options]
+
+default: running containers
+-a: all containers
+-s: display file size
